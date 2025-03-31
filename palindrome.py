@@ -15,3 +15,7 @@ print(isPalindrome(123))
 print(isPalindrome(1001))
 print(isPalindrome(10))
 
+
+#Time Complexity = O(log n) because number of digits in n = log10(n)
+#Space Complexity = O(1)  few variables
+
