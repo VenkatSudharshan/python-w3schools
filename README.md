@@ -1,4 +1,4 @@
-These are basic python practice programs 
+These are basic python practice programs for regular practice
 
 ✅ 25 Must-Solve Programs Before LeetCode
 
