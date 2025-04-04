@@ -1,6 +1,6 @@
 These are basic python practice programs for regular practice
 
-✅ 25 Must-Solve Programs Before LeetCode
+✅ 25 Must-Solve Programs Before LeetCode :
 
 🧮 Math & Logic (1–7)
 	1.	Check if a number is prime
